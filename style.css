@@ -194,10 +194,6 @@ section .container>* {
     .imgContainer img {
         margin-top: -150px;
     }
-
-    .image img {
-        height: 58rem;
-    }
 }
 
 @media(max-width: 600px) {
